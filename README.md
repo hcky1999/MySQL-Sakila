@@ -3,7 +3,7 @@ Objectives:
 Practice SQL queries
 Using the Sakila database, complete the below queries.
 
-You can get the Sakila database and ERD here (https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/sakila-data.sqland & http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_3569/handouts/chapter3569_5431_sakila-db-model.png), please use these for reference.
+
 
 Note
 Earlier in this section, we recommended for students name their tables all lower case and have a primary key called 'id' in each table. These are the rules we follow, however not all developers follow these rules. The SQL file you'll be working with does NOT follow the rules we discussed, including naming the fields lower case. We still want you to follow the rules we taught, but use this as an opportunity to get comfortable with other SQL files that do not completely follow the rules of normalization.
